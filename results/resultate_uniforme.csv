@@ -1,0 +1,100 @@
+1, 23, ICONOGRAFĂ, OK, A, B, D, I, C, R, T, H, O, J, U, N, E, G, L, S, Z, M, V, P, F, X, Ă
+2, 23, FAGOCITUL, OK, B, A, C, I, L, O, R, U, T, E, D, G, S, H, J, N, M, Z, P, V, Y, F, X
+3, 18, APICOLILOR, OK, A, P, I, C, L, E, O, R, U, T, S, N, M, Z, F, D, H, V
+4, 21, HIPOPLAZII, OK, H, A, B, O, T, N, I, C, E, U, L, D, S, R, M, F, G, Z, P, X, V
+5, 9, PROHODI, OK, G, R, O, H, T, E, I, P, D
+6, 18, CIOPLEA, OK, A, C, U, P, L, I, J, M, T, E, Z, O, X, D, S, Y, N, R
+7, 23, COVÂRȘITELOR, OK, A, D, V, E, N, T, I, S, L, O, R, U, B, Z, M, C, G, Â, Ș, F, P, H, J
+8, 25, PÂRGUIRILE, OK, P, A, C, I, U, L, E, O, R, K, S, N, T, M, D, Z, G, F, J, B, V, X, Ș, H, Â
+9, 20, BURGHIERILE, OK, A, B, R, E, V, I, L, P, C, N, D, O, T, F, S, Z, U, G, H, M
+10, 21, SAMAVOLNICII, OK, A, T, M, O, S, F, E, R, I, C, L, N, B, V, P, D, G, U, H, Z, J
+11, 6, CĂȘĂIEȘTE, OK, C, Ă, Ș, I, E, T
+12, 12, SISALUL, OK, S, A, I, C, M, U, N, D, R, E, T, L
+13, 22, CINERARIILE, OK, A, B, H, O, R, I, L, J, U, D, M, T, E, N, C, S, P, Z, G, V, F, X
+14, 23, DEZAGLOMERĂM, OK, A, B, R, C, D, E, I, V, U, L, T, P, N, S, O, M, Z, G, H, F, J, Ă, X
+15, 6, TETRODĂ, OK, T, E, R, O, D, Ă
+16, 24, MÂNJITURII, OK, A, C, E, T, I, L, U, R, O, N, D, F, M, S, B, Z, V, G, P, J, H, X, K, Â
+17, 24, DESOFISTICĂRII, OK, A, E, R, O, F, I, L, T, C, G, M, B, N, U, S, D, Z, Ă, X, H, J, V, P, W
+18, 20, TĂIERI, OK, T, A, B, R, E, I, C, U, F, L, M, N, D, P, S, X, O, V, G, Ă
+19, 21, GENTILEȚILOR, OK, A, C, E, T, I, L, R, O, U, H, N, S, B, M, V, D, P, F, G, Ț, Z
+20, 22, NENOROCITUL, OK, A, B, I, O, T, C, L, R, N, M, E, D, U, S, V, H, G, Z, P, X, F, J
+21, 25, ÎNAINTĂ, OK, A, G, H, I, U, T, E, L, B, S, M, N, O, R, P, F, D, C, V, X, J, Z, K, Î, Ă
+22, 26, ISTMICUL, OK, A, B, G, E, R, U, L, J, N, O, S, T, I, C, M, P, D, Z, V, F, H, X, K, Y, W, Q
+23, 11, ASCUȚITUNGHICUL, OK, A, S, C, U, T, I, N, G, H, L, Ț
+24, 8, OBNUBILĂRILOR, OK, O, B, N, U, I, L, Ă, R
+25, 8, BUMBĂCELULUI, OK, B, U, M, Ă, C, E, L, I
+26, 10, POSTĂVĂRIILE, OK, P, O, S, T, Ă, V, R, I, L, E
+27, 25, CENTROZOMUL, OK, A, E, R, O, D, I, N, M, U, L, G, C, B, T, V, S, P, H, J, Z, F, K, X, W, Y
+28, 22, DEBAVURASE, OK, A, B, S, O, L, U, T, I, M, G, E, C, N, F, R, P, D, H, V, Z, X, J
+29, 21, VRAMIȚE, OK, V, A, C, I, N, E, J, U, D, R, S, T, O, L, M, P, G, H, B, Z, Ț
+30, 22, RETORI, OK, A, C, T, I, V, O, R, F, S, H, U, L, N, M, P, E, Z, B, G, J, D, K
+31, 20, EPISTOLARELOR, OK, A, M, I, G, D, L, T, E, O, R, N, C, U, P, S, B, H, F, V, Z
+32, 18, ÎNCHIABUREAȚI, OK, C, H, I, L, B, A, R, E, O, U, N, M, S, T, Z, G, Î, Ț
+33, 22, LAMINATOAREA, OK, L, A, B, I, Z, R, E, S, M, T, O, V, N, C, U, G, F, K, P, D, H, X
+34, 23, PLATINEZ, OK, A, B, I, L, T, E, Z, R, V, S, N, C, P, H, D, U, O, M, F, G, J, X, Y
+35, 24, ȚĂNDĂRELEI, OK, A, M, I, D, U, R, L, O, S, Z, E, V, T, B, N, C, F, J, P, X, G, H, Ț, Ă
+36, 24, TEVATURI, OK, A, B, R, Z, E, I, C, L, M, D, F, O, S, T, G, V, U, N, J, P, H, X, K, Y
+37, 17, FIDANȚATA, OK, F, A, D, I, N, G, U, R, O, L, E, S, T, V, Ț, M, C
+38, 23, EXONDĂRILE, OK, E, B, N, I, S, T, L, O, A, R, U, C, M, H, Z, D, P, J, V, G, F, X, Ă
+39, 21, DECOMANDATĂ, OK, A, C, L, I, M, T, E, Z, N, O, S, R, H, D, Ă, G, F, P, U, V, J
+40, 19, OMAGIALI, OK, A, M, G, E, L, N, T, R, I, U, B, Z, F, O, H, C, D, S, P
+41, 22, STÂLPISEM, OK, A, B, L, E, P, S, I, C, T, R, O, G, N, U, M, D, Z, V, H, X, F, Â
+42, 7, ELFILOR, OK, E, L, F, I, O, R, U
+43, 17, DECONCERTANTELE, OK, D, E, C, A, L, I, F, N, T, S, R, M, O, U, H, J, B
+44, 24, GAGICULUI, OK, A, C, I, Z, U, L, R, S, T, V, D, M, G, B, N, P, E, O, H, F, J, X, K, Y
+45, 21, APELARĂM, OK, A, C, I, L, R, M, E, S, T, U, O, D, Z, P, N, V, G, B, Ă, J, X
+46, 16, SPERMATOFITELOR, OK, A, N, T, I, C, L, O, F, E, R, B, G, S, H, P, M
+47, 9, NECREDINCIOȘILOR, OK, N, E, C, R, D, I, O, Ș, L
+48, 24, CINSTEȚUL, OK, A, C, O, S, T, R, M, E, I, U, L, Z, D, G, J, B, N, F, P, H, Ț, X, V, W
+49, 20, NEOFORMAȚIUNII, OK, E, X, O, M, R, F, I, S, U, L, G, N, C, A, P, T, Z, Ț, H, B
+50, 20, PEGMATITUL, OK, P, A, G, N, T, E, I, S, C, U, L, O, R, M, B, D, Z, J, H, F
+51, 23, PLUTUIEȘTE, OK, A, B, S, T, I, N, E, J, U, O, R, M, L, C, F, P, H, G, D, X, V, Ș, Z
+52, 23, CINTEZII, OK, A, I, U, R, E, L, B, O, G, N, C, T, Z, S, M, P, D, F, X, J, H, K, V
+53, 25, FOLFĂIESC, OK, B, O, E, R, I, L, T, C, S, U, A, M, V, N, D, G, H, J, Z, F, X, K, P, Y, Ă
+54, 9, OTORINOLARINGOLOGELOR, OK, O, T, R, I, N, L, A, G, E
+55, 10, ESTETIZANTEI, OK, E, N, T, R, O, P, A, I, S, Z
+56, 9, BALAOACHEȘĂ, OK, B, A, L, O, C, H, E, Ș, Ă
+57, 7, NOTĂRIȚĂ, OK, N, O, T, Ă, R, I, Ț
+58, 20, DULEȚI, OK, D, A, L, C, I, J, E, B, U, M, T, S, O, G, F, N, R, Z, P, Ț
+59, 18, RICKETTSIOZEI, OK, F, O, T, E, M, I, S, U, N, A, G, R, P, C, D, K, Z, L
+60, 5, CIREȘE, OK, C, I, R, E, Ș
+61, 7, ZGĂRDAT, OK, Z, G, Ă, R, D, A, T
+62, 24, PREȚIOASELOR, OK, A, B, R, Z, O, E, L, C, S, I, N, T, U, D, F, V, P, M, G, J, H, X, K, Ț
+63, 22, DIMPREJUR, OK, D, A, M, U, R, I, L, O, T, E, B, S, C, N, P, V, X, G, F, H, J, Z
+64, 24, BULBUCAT, OK, A, P, L, U, D, T, B, I, N, S, E, M, J, O, R, C, Z, V, G, H, F, K, W, X
+65, 23, ARIERDUNĂ, OK, A, C, O, M, D, N, B, R, P, L, I, E, U, Ă, S, T, Z, J, H, F, G, X, V
+66, 20, FLACIDEI, OK, A, B, S, C, I, E, Z, L, R, T, M, O, U, N, H, P, D, G, F, V
+67, 9, CONVENȚIONALI, OK, C, O, N, V, E, Ț, I, A, L
+68, 9, CUCONIȚĂ, OK, C, U, O, N, I, Ț, Ă, T, R
+69, 9, NELINIȘTITORULUI, OK, N, E, L, I, Ș, T, O, R, U
+70, 24, BIHINDISIRILE, OK, B, A, Y, S, C, H, I, U, R, L, E, T, K, N, D, G, O, M, J, Z, F, P, V, W
+71, 25, ÎMPLINIREA, OK, A, N, C, L, S, D, R, E, I, T, Z, P, O, U, M, V, B, G, Y, H, X, F, K, J, Î
+72, 16, INSTIGÂND, OK, I, N, S, A, L, D, R, E, T, Z, P, C, G, Â, U, M
+73, 22, RECENTE, OK, R, A, C, D, U, I, M, N, E, S, T, L, H, O, K, J, Z, P, V, F, G, B
+74, 5, EMBLEMĂ, OK, E, M, B, L, Ă
+75, 9, SINGURAȘUL, OK, S, I, N, G, U, R, A, Ș, L
+76, 17, SUBSECRETARULUI, OK, A, N, T, I, E, S, C, L, O, R, U, P, V, G, H, M, B
+77, 12, DEVITALIZASERĂM, OK, D, E, V, I, T, A, L, Z, S, R, Ă, M
+78, 23, SUBAPRECIEZ, OK, A, B, J, U, R, I, L, E, O, T, F, C, P, D, V, M, G, H, N, S, Z, X, Q
+79, 21, CLASATULUI, OK, C, L, A, B, U, I, O, R, J, E, S, D, T, M, N, P, V, X, G, F, Z
+80, 24, FARAONICUL, OK, A, E, R, I, N, U, L, O, G, P, B, T, C, D, M, S, Z, F, J, V, X, H, W, K
+81, 23, ÎNROLĂRILOR, OK, A, B, R, O, G, I, L, C, S, T, E, N, P, V, Z, U, D, M, F, H, X, Î, Ă
+82, 22, PRIMEZIU, OK, A, R, B, I, Z, U, D, T, O, C, N, E, G, S, H, V, L, M, J, F, P, X
+83, 18, CRUCIATULUI, OK, C, E, R, L, A, J, O, U, I, H, Z, M, N, T, S, D, G, V
+84, 22, PRODIGATELE, OK, P, H, O, E, N, I, X, U, L, D, R, M, T, F, A, S, C, B, G, J, Z, V
+85, 20, VINA, OK, B, A, N, E, I, O, U, C, D, F, G, J, L, M, R, P, S, T, V, Z
+86, 10, CIFRARĂM, OK, C, I, F, R, A, M, E, Ă, O, G
+87, 23, ÎNFRUNTASEM, OK, A, B, N, D, O, S, E, M, J, U, C, R, T, I, Z, L, V, F, P, G, H, X, Î
+88, 6, VIOȘELI, OK, V, I, O, Ș, E, L
+89, 10, AMUȘISERĂȚI, OK, A, M, U, Ș, I, S, E, R, Ă, Ț
+90, 16, TELEGRAFIARĂ, OK, C, E, L, B, R, A, T, O, M, U, I, P, N, G, F, Ă
+91, 19, CITRONADELE, OK, A, M, B, R, C, D, E, U, S, L, G, I, N, T, O, P, V, H, Z
+92, 12, BASCHETBALIȘTILOR, OK, B, A, S, C, H, E, T, L, I, Ș, O, R
+93, 23, SEPTICUL, OK, A, D, P, R, E, S, U, L, G, I, T, C, B, N, Y, O, V, F, J, X, M, Z, H
+94, 4, VENENO, OK, V, E, N, O
+95, 8, GUDRONĂM, OK, G, U, D, R, O, N, Ă, M
+96, 16, CORDENCIULUI, OK, C, A, R, I, O, U, L, E, D, T, Z, F, M, S, N, P
+97, 27, STROPȘIRE, OK, S, T, A, B, I, L, E, M, U, C, N, D, R, Z, O, H, J, F, G, P, V, W, K, X, Y, Ș, Â
+98, 15, FOILETONIST, OK, F, A, I, N, T, R, L, E, O, S, C, U, G, D, M
+99, 8, PLICISERĂ, OK, P, L, I, C, S, E, R, Ă
+100, 20, ACHITAT, OK, A, C, H, I, T, O, N, S, D, P, F, E, R, G, J, U, L, M, B, V
